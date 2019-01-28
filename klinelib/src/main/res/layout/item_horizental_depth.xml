@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ProgressBar
+            android:id="@+id/progress_left"
+            style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:max="100"
+            android:progressDrawable="@drawable/depth_progress_bar_left" />
+
+        <ProgressBar
+            android:id="@+id/progress_right"
+            style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:max="100"
+            android:progressDrawable="@drawable/depth_progress_bar_right" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/text_view_left_index"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:textColor="#dcddf2" />
+
+        <TextView
+            android:id="@+id/text_view_left_amount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/text_view_left_price"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:paddingRight="5dp"
+            android:textColor="@color/chart_up"
+            android:textFontWeight="1" />
+
+        <TextView
+            android:id="@+id/text_view_right_price"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingLeft="5dp"
+            android:textColor="@color/chart_down" />
+
+        <TextView
+            android:id="@+id/text_view_right_amount"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:textColor="@android:color/white" />
+
+        <TextView
+            android:id="@+id/text_view_right_index"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:textColor="#dcddf2" />
+
+    </LinearLayout>
+
+</FrameLayout>

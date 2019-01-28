@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="chart_down">#E76D42</color>
+    <color name="chart_up">#03C087</color>
+    <color name="chart_down_alpha">#3D2E33</color>
+    <color name="chart_up_alpha">#103E41</color>
+    <color name="chart_minute_line">#4B85D6</color>
+    <color name="chart_line_start">#404B85D6</color>
+    <color name="chart_line_end">#004B85D6</color>
+
+    <color name="chart_ma5">#F6DC93</color>
+    <color name="chart_ma10">#61D1C0</color>
+    <color name="chart_ma30">#CB92FE</color>
+
+    <color name="chart_background">#E6081724</color>
+    <color name="chart_point_selected_price_bg">#081724</color>
+    <color name="chart_grid_line">#5a223349</color>
+    <color name="chart_text">#6781A1</color>
+    <color name="chart_selector">#ea111725</color>
+    <color name="chart_tab_background">#111725</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="background">#081724</color>
+    <color name="right_index">#4B85D6</color>
+    <color name="cross_big_color">#9aCFD3E9</color>
+    <color name="cross_color">#CFD3E9</color>
+    <color name="cross_vertical_color">#1ACFD3E9</color>
+
+
+    <color name="kline_bg_start">#1C1E27</color>
+    <color name="info_kline_bg_end">#4B85D6</color>
+
+
+    <!-- K线页面-->
+    <color name="market_info_background">#131F30</color>
+    <color name="market_info_bottom_background">#172841</color>
+    <color name="market_info_target_background">#081724</color>
+    <color name="market_info_divider_background">#081724</color>
+    <color name="market_info_kline_bg_start">#1C1E27</color>
+    <color name="market_info_kline_bg_end">#4B85D6</color>
+    <color name="market_info_index_bg">#FC081724</color>
+    <color name="market_info_main_textcolor">#CFD3E9</color>
+    <color name="market_info_secondary_textcolor">#6D87A8</color>
+    <color name="market_info_secondary_sel_textcolor">@color/baseColorMajorTheme100</color>
+    <color name="market_info_index_textcolor">#6781A1</color>
+    <color name="market_info_divider_color">#081724</color>
+    <color name="market_info_intro_divider_color">#081724</color>
+    <color name="market_info_sell_item_progress">#232531</color>
+    <color name="market_info_buy_item_progress">#112B37</color>
+    <color name="market_info_depth_top_lebel">@color/baseColorShadeSecondaryButtonEnd</color>
+    <color name="market_info_buy_sell_item_background">#131F30</color>
+    <color name="market_info_error_text_color">@color/baseColorShadeSecondaryButtonEnd</color>
+    <color name="market_info_empty_text_color">@color/baseColorShadeSecondaryButtonEnd</color>
+    <color name="market_info_depth_chart_buy_fill_color">#103E41</color>
+    <color name="market_info_depth_chart_sell_fill_color">#3D2E33</color>
+    <color name="market_info_depth_chart_coordinate_color">#6D87A8</color>
+    <color name="market_info_box_frame_color">@color/kColorGlobalToast</color>
+    <color name="market_info_box_bg_color">#081724</color>
+
+</resources>
