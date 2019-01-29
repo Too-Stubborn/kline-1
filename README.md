@@ -1,6 +1,5 @@
 # kline
-K线 包含深度图蜡烛图
-完整的K线功能
+完整的K线功能,可拿来直接使用
 
 改自:https://github.com/tifezh/KChartView
 
