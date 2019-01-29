@@ -20,7 +20,8 @@ K线 包含深度图蜡烛图
 14. 重写网格的绘制
 效果图
 
+
+
+
+<img src="https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg" width="100" hegiht="30" align=center />
 ![https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg](https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg)
-
-
-<img src="http://7xqoji.com1.z0.glb.clouddn.com/mytest.jpg" width="100" hegiht="30" align=center />
