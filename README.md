@@ -1,7 +1,7 @@
 # kline
 完整的K线功能,可拿来直接使用
 
-改自:https://github.com/tifezh/KChartView
+
 
 1. 修改十字线绘制
 2. 修改分时线绘制
@@ -24,3 +24,8 @@
 
 <img src="https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg" width="500" hegiht="500" align=center />
 ![https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg](https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg)
+
+
+
+开始是修改自:https://github.com/tifezh/KChartView
+改着改着发现有些东西真的不合理,除了几个基础的东西很多都修改了
