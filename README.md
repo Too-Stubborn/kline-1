@@ -23,7 +23,7 @@
 
 
 <img src="https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg" width="500" hegiht="500" align=center />
-![https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg](https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg)
+
 
 
 
