@@ -19,6 +19,7 @@ K线 包含深度图蜡烛图
 13. 重写Y轴label的绘制
 14. 重写网格的绘制
 效果图
-![https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg]
+
+![https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg](https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg)
 
 
