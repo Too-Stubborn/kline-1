@@ -22,7 +22,7 @@
 
 
 
-<img src="https://upload-images.jianshu.io/upload_images/2953531-24f05d7f38bb2760.jpg" width="500" hegiht="500" align=center />
+<img src="https://github.com/icechao/kline/blob/master/app/src/main/assets/jmnti-4sscj.gif" width="500" hegiht="500" align=center />
 
 
 
