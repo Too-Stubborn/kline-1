@@ -34,5 +34,5 @@
 
 
 
-开始是修改自:https://github.com/tifezh/KChartView
-改着改着发现有些东西真的不合理,除了几个基础的东西很多都修改了
+    开始是修改自:https://github.com/tifezh/KChartView
+    改着改着发现有些东西真的不合理,除了几个基础的东西很多都修改了
