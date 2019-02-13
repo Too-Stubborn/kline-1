@@ -22,7 +22,7 @@
 
 
 
-<img src="https://github.com/icechao/kline/blob/master/app/src/main/assets/jmnti-4sscj.gif" width="500" hegiht="500" align=center />
+<img src="https://github.com/icechao/kline/blob/master/app/src/main/assets/3yfwc-wv75b.gif" width="500" hegiht="500" align=center />
 
 
 
